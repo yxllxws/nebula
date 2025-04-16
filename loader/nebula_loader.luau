@@ -6,6 +6,8 @@ elseif game.PlaceId == 11177482306 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/yxllxws/nebula/refs/heads/main/lua/streetzwar2.luau'))()
 elseif game.PlaceId == 16472538603 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/yxllxws/nebula/refs/heads/main/lua/thabronx3.luau'))()
+elseif game.PlaceId == 85896571713843 then -- bubble gum simulator
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/yxllxws/nebula/refs/heads/main/lua/bubblegumsimulator.luau'))()
 elseif game.PlaceId == 110238095828503 then
     while true do while true do end end
 else
